@@ -4,6 +4,8 @@ I extracted this package from https://github.com/conformal/btcutil to provide a 
 - defaults to base58-check (btc)
 - and allows using different alphabets.
 
+Subsequently forked from the abandoned upstream version to update to go1.20 module format.
+
 ## Usage
 
 ```go
